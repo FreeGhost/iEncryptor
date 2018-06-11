@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>I:\Visual Basic\Windowed\Programs\iEncryptor\Setup\Original Files\|D:\Visual Basic\Windowed\Programs\iEncryptor\Setup\Original Files\|D:\Visual Basic\Windowed\Programs\MyEncrypt\Setup\Original Files\|D:\Microsoft Visual Basic 2010\Windowed\Programs\MyCoding\Setup\Final\|H:\MyProjects\Microsoft Visual Basic 2010\Windowed\Programs\MyCoding\Setup\Default Setup\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>http://mousaalfhaily.esy.es/VBApps/Free/MyCoding.html|http://mousaalfhaily.besaba.com/Projects.html</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://mousaalfhaily.esy.es</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

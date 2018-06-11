@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "iEncryptor", "iEncryptor\iEncryptor.vbproj", "{C85AD558-4C1B-486A-B95F-ABDCE74871DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85AD558-4C1B-486A-B95F-ABDCE74871DC}.Debug|x86.ActiveCfg = Debug|x86
+		{C85AD558-4C1B-486A-B95F-ABDCE74871DC}.Debug|x86.Build.0 = Debug|x86
+		{C85AD558-4C1B-486A-B95F-ABDCE74871DC}.Release|x86.ActiveCfg = Release|x86
+		{C85AD558-4C1B-486A-B95F-ABDCE74871DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8623CEE1-07F2-4567-8081-8C0E22AFC8E3}
+	EndGlobalSection
+EndGlobal
